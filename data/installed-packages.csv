@@ -1,0 +1,174 @@
+Package,LibPath,Version,Priority,Built
+acepack,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.4.1,NA,3.4.4
+assertthat,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.2.0,NA,3.4.4
+backports,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.1.2,NA,3.4.4
+base64enc,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.1-3,NA,3.4.4
+BH,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.66.0-1,NA,3.4.4
+bindr,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.1.1,NA,3.4.4
+bindrcpp,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.2.2,NA,3.4.4
+bitops,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0-6,NA,3.4.4
+broom,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.5.0,NA,3.4.4
+callr,C:/Users/mmcdonald/Documents/R/win-library/3.4,3.0.0,NA,3.4.4
+caTools,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.17.1.1,NA,3.4.4
+cellranger,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.1.0,NA,3.4.4
+checkmate,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.8.5,NA,3.4.4
+cli,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0.1,NA,3.4.4
+clipr,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.4.1,NA,3.4.4
+clisymbols,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.2.0,NA,3.4.4
+colorspace,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.3-2,NA,3.4.4
+crayon,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.3.4,NA,3.4.4
+curl,C:/Users/mmcdonald/Documents/R/win-library/3.4,3.2,NA,3.4.4
+data.table,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.11.8,NA,3.4.4
+DBI,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0.0,NA,3.4.4
+dbplyr,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.2.2,NA,3.4.4
+desc,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.2.0,NA,3.4.4
+devtools,C:/Users/mmcdonald/Documents/R/win-library/3.4,2.0.1,NA,3.4.4
+digest,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.6.18,NA,3.4.4
+doParallel,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0.14,NA,3.4.4
+dplyr,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.7.8,NA,3.4.4
+evaluate,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.12,NA,3.4.4
+fansi,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.4.0,NA,3.4.4
+forcats,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.3.0,NA,3.4.4
+foreach,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.4.4,NA,3.4.4
+formatR,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.5,NA,3.4.4
+Formula,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.2-3,NA,3.4.4
+fredr,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0.0,NA,3.4.4
+fs,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.2.6,NA,3.4.4
+gdata,C:/Users/mmcdonald/Documents/R/win-library/3.4,2.18.0,NA,3.4.4
+ggfittext,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.6.0,NA,3.4.4
+ggplot2,C:/Users/mmcdonald/Documents/R/win-library/3.4,3.1.0,NA,3.4.4
+ggthemes,C:/Users/mmcdonald/Documents/R/win-library/3.4,4.0.1,NA,3.4.4
+gh,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0.1,NA,3.4.4
+git2r,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.24.0,NA,3.4.4
+glue,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.3.0,NA,3.4.4
+gplots,C:/Users/mmcdonald/Documents/R/win-library/3.4,3.0.1,NA,3.4.4
+gridExtra,C:/Users/mmcdonald/Documents/R/win-library/3.4,2.3,NA,3.4.4
+gtable,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.2.0,NA,3.4.4
+gtools,C:/Users/mmcdonald/Documents/R/win-library/3.4,3.8.1,NA,3.4.4
+haven,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.1.2,NA,3.4.4
+here,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.1,NA,3.4.4
+hhi,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.2.0,NA,3.4.4
+highr,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.7,NA,3.4.4
+Hmisc,C:/Users/mmcdonald/Documents/R/win-library/3.4,4.1-1,NA,3.4.4
+hms,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.4.2,NA,3.4.4
+htmlTable,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.13.1,NA,3.4.3
+htmltools,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.3.6,NA,3.4.4
+htmlwidgets,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.3,NA,3.4.4
+httpuv,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.4.5,NA,3.4.4
+httr,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.3.1,NA,3.4.4
+ini,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.3.1,NA,3.4.4
+iterators,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0.10,NA,3.4.4
+jsonlite,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.5,NA,3.4.4
+knitr,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.20,NA,3.4.4
+labeling,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.3,NA,3.4.4
+later,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.7.5,NA,3.4.4
+latticeExtra,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.6-28,NA,3.4.4
+lazyeval,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.2.1,NA,3.4.4
+lubridate,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.7.4,NA,3.4.4
+magrittr,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.5,NA,3.4.4
+markdown,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.8,NA,3.4.4
+MatrixModels,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.4-1,NA,3.4.4
+memoise,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.1.0,NA,3.4.4
+mime,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.6,NA,3.4.4
+modelr,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.1.2,NA,3.4.4
+multcomp,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.4-8,NA,3.4.4
+munsell,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.5.0,NA,3.4.4
+mvtnorm,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0-8,NA,3.4.4
+openssl,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0.2,NA,3.4.4
+packrat,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.5.0,NA,3.4.3
+pillar,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.3.0,NA,3.4.4
+pkgbuild,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0.2,NA,3.4.4
+pkgconfig,C:/Users/mmcdonald/Documents/R/win-library/3.4,2.0.2,NA,3.4.4
+pkgload,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0.2,NA,3.4.4
+PKI,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.1-5.1,NA,3.4.4
+plogr,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.2.0,NA,3.4.4
+plyr,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.8.4,NA,3.4.4
+polspline,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.1.13,NA,3.4.4
+prettyunits,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0.2,NA,3.4.4
+pROC,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.13.0,NA,3.4.4
+processx,C:/Users/mmcdonald/Documents/R/win-library/3.4,3.2.0,NA,3.4.4
+promises,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0.1,NA,3.4.4
+ps,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.2.1,NA,3.4.4
+purrr,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.2.5,NA,3.4.4
+quantreg,C:/Users/mmcdonald/Documents/R/win-library/3.4,5.38,NA,3.4.4
+R6,C:/Users/mmcdonald/Documents/R/win-library/3.4,2.3.0,NA,3.4.4
+rcmdcheck,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.3.2,NA,3.4.3
+RColorBrewer,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.1-2,NA,3.4.4
+Rcpp,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0.0,NA,3.4.4
+RCurl,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.95-4.11,NA,3.4.4
+readr,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.1.1,NA,3.4.4
+readxl,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.1.0,NA,3.4.4
+rematch,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0.1,NA,3.4.4
+remotes,C:/Users/mmcdonald/Documents/R/win-library/3.4,2.0.2,NA,3.4.4
+reprex,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.2.1,NA,3.4.4
+reshape2,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.4.3,NA,3.4.4
+RJSONIO,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.3-1.1,NA,3.4.4
+rlang,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.3.0.1,NA,3.4.4
+rmarkdown,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.10,NA,3.4.4
+RMBSModel4Shiny,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.5.0,NA,3.4.3
+RMBSModelSensitivities,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.0.10,NA,3.4.3
+rms,C:/Users/mmcdonald/Documents/R/win-library/3.4,5.1-2,NA,3.4.4
+ROCR,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0-7,NA,3.4.4
+RODBC,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.3-15,NA,3.4.4
+rprojroot,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.3-2,NA,3.4.4
+rsconnect,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.8.11,NA,3.4.3
+rstudioapi,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.8,NA,3.4.4
+rvest,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.3.2,NA,3.4.4
+sandwich,C:/Users/mmcdonald/Documents/R/win-library/3.4,2.5-0,NA,3.4.4
+scales,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0.0,NA,3.4.4
+selectr,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.4-1,NA,3.4.4
+sessioninfo,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.1.1,NA,3.4.4
+shiny,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.2.0,NA,3.4.3
+sourcetools,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.1.7,NA,3.4.4
+SparseM,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.77,NA,3.4.4
+stringi,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.2.4,NA,3.4.4
+stringr,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.3.1,NA,3.4.4
+TH.data,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0-9,NA,3.4.4
+tibble,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.4.2,NA,3.4.4
+tidyr,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.8.1,NA,3.4.4
+tidyselect,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.2.5,NA,3.4.4
+tidyverse,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.2.1,NA,3.4.4
+tinytex,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.9,NA,3.4.4
+treemapify,C:/Users/mmcdonald/Documents/R/win-library/3.4,2.5.2,NA,3.4.4
+usethis,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.4.0,NA,3.4.4
+utf8,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.1.4,NA,3.4.4
+viridis,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.5.1,NA,3.4.4
+viridisLite,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.3.0,NA,3.4.4
+whisker,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.3-2,NA,3.4.4
+withr,C:/Users/mmcdonald/Documents/R/win-library/3.4,2.1.2,NA,3.4.4
+xfun,C:/Users/mmcdonald/Documents/R/win-library/3.4,0.4,NA,3.4.4
+xml2,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.2.0,NA,3.4.4
+xopen,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.0.0,NA,3.4.4
+xtable,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.8-3,NA,3.4.4
+yaml,C:/Users/mmcdonald/Documents/R/win-library/3.4,2.2.0,NA,3.4.4
+zoo,C:/Users/mmcdonald/Documents/R/win-library/3.4,1.8-4,NA,3.4.4
+base,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+boot,C:/Program Files/R/R-3.4.3/library,1.3-20,recommended,3.4.3
+class,C:/Program Files/R/R-3.4.3/library,7.3-14,recommended,3.4.3
+cluster,C:/Program Files/R/R-3.4.3/library,2.0.6,recommended,3.4.3
+codetools,C:/Program Files/R/R-3.4.3/library,0.2-15,recommended,3.4.3
+compiler,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+datasets,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+foreign,C:/Program Files/R/R-3.4.3/library,0.8-69,recommended,3.4.3
+graphics,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+grDevices,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+grid,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+KernSmooth,C:/Program Files/R/R-3.4.3/library,2.23-15,recommended,3.4.3
+lattice,C:/Program Files/R/R-3.4.3/library,0.20-35,recommended,3.4.3
+MASS,C:/Program Files/R/R-3.4.3/library,7.3-47,recommended,3.4.3
+Matrix,C:/Program Files/R/R-3.4.3/library,1.2-12,recommended,3.4.3
+methods,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+mgcv,C:/Program Files/R/R-3.4.3/library,1.8-22,recommended,3.4.3
+nlme,C:/Program Files/R/R-3.4.3/library,3.1-131,recommended,3.4.3
+nnet,C:/Program Files/R/R-3.4.3/library,7.3-12,recommended,3.4.3
+parallel,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+rpart,C:/Program Files/R/R-3.4.3/library,4.1-11,recommended,3.4.3
+spatial,C:/Program Files/R/R-3.4.3/library,7.3-11,recommended,3.4.3
+splines,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+stats,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+stats4,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+survival,C:/Program Files/R/R-3.4.3/library,2.41-3,recommended,3.4.3
+tcltk,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+tools,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+translations,C:/Program Files/R/R-3.4.3/library,3.4.3,NA,3.4.3
+utils,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
